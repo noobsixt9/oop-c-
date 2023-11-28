@@ -1,3 +1,7 @@
+/*Create a class named Student with private data members for the student's name, ID, and GPA. Implement a parameterized constructor (Student) to 
+initialize these values. Demonstrate the creation of a Student object and display its information using the class method (displayInformation()).  */
+
+
 #include<iostream>
 
 using namespace std;
