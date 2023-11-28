@@ -1,3 +1,6 @@
+/* Create a class named Contact with private data members for contact name and number. Implement a default constructor and a parameterized constructor (Contact) 
+to initialize these values. Demonstrate the creation of Contact objects and display their information. */
+
 #include<iostream>
 
 using namespace std;
