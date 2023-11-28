@@ -1,3 +1,6 @@
+/* Define a class called Employee with private data members for employee name, ID, and salary. Create a parameterized constructor (Employee) to initialize 
+these values. Demonstrate the creation of Employee objects and display their information */
+
 #include<iostream>
 
 using namespace std;
