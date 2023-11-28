@@ -1,3 +1,6 @@
+/* Implement a class named ComplexNumber to represent complex  numbers. Include private data members for the real and imaginary parts. Implement a parameterized 
+constructor (ComplexNumber) to initialize these values. Create ComplexNumber objects and display their information using a method (displayInformation()). */
+
 #include<iostream>
 
 using namespace std;
