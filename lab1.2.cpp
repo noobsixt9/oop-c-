@@ -1,3 +1,7 @@
+/* Develop a class called Product with private data members for the product name, ID, and price. Include a static member (totalProducts) to keep track of the 
+total number of products. Implement a parameterized constructor (Product) and methods (setInformation(), showInformation(), getTotalProducts()) to set and 
+display product information and retrieve the total number of products.*/
+
 #include<iostream>
 
 using namespace std;
